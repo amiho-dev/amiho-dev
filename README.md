@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm amiho! 👋  
 
-<!--
-**amiho-dev/amiho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer of **CommanDOS** | 🕹️ ITG Enthusiast | 🌍 Running **thatoneamiho.cc**  
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On  
+- **CommanDOS** – A CMD-based OS simulation  
+- **ITG3 & Installer** – Bringing ITG3 to Windows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Interests  
+- 💾 Windows & macOS customization  
+- 📜 NSIS & scripting  
+- 🖥️ Hackintosh tinkering  
+- 🌐 Server & domain management  
+
+### 📫 Contact Me  
+- Email: [amiho@thatoneamiho.cc](mailto:amiho@thatoneamiho.cc)  
+- Website: [thatoneamiho.cc](https://thatoneamiho.cc)  
+
+⚡ **Fun fact:** I once found a hidden "CPU" profile in OpenITG Beta 1. 
