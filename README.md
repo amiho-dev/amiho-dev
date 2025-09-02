@@ -16,4 +16,4 @@
 - Email: [amiho@thatoneamiho.cc](mailto:amiho@thatoneamiho.cc)  
 - Website: [thatoneamiho.cc](https://thatoneamiho.cc)  
 
-⚡ **Fun fact:** I once found a hidden "CPU" profile in OpenITG Beta 1. 
+⚡ **Fun fact:** I once found a hidden "CPU" profile in OpenITG Beta 1. (Made it useful by adding a 2nd AI player in **Marathon mode** (improved it too)
