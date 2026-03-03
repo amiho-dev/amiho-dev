@@ -30,5 +30,3 @@ I discovered a hidden "CPU" profile in the OpenITG Beta 1 source code. I repurpo
 ### 📫 Let's Connect
 [![Website](https://img.shields.io/badge/Website-tad--it.eu-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://tad-it.eu)
 [![Email](https://img.shields.io/badge/Email-amiho%40tad--it.eu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:amiho@tad-it.eu)
-
----
