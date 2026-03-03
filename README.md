@@ -16,7 +16,7 @@ I specialize in bridging the gap between legacy systems and modern functionality
 ### 🛠️ Technical Toolkit
 * **Scripting & Automation:** Expert in NSIS (Nullsoft Scriptable Install System) and specialized system scripting.
 * **OS Architecture:** Extensive experience in Windows/macOS customization and Hackintosh deployment.
-* **Infrastructure:** Server administration and domain management via [thatoneamiho.cc](https://thatoneamiho.cc).
+* **Infrastructure:** Server administration and domain management via [tad-it.eu](https://tad-it.eu).
 
 ### 📊 GitHub Stats
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiho-dev&layout=compact&theme=vision-pro) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiho-dev&show_icons=true&theme=vision-pro) |
@@ -28,7 +28,7 @@ I specialize in bridging the gap between legacy systems and modern functionality
 I discovered a hidden "CPU" profile in the OpenITG Beta 1 source code. I repurposed it to introduce a functional 2nd AI player in an overhauled Marathon mode.
 
 ### 📫 Let's Connect
-[![Website](https://img.shields.io/badge/Website-thatoneamiho.cc-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://thatoneamiho.cc)
-[![Email](https://img.shields.io/badge/Email-amiho%40thatoneamiho.cc-red?style=flat-square&logo=gmail&logoColor=white)](mailto:amiho@thatoneamiho.cc)
+[![Website](https://img.shields.io/badge/Website-tad--it.eu-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://tad-it.eu)
+[![Email](https://img.shields.io/badge/Email-amiho%40tad--it.eu-red?style=flat-square&logo=gmail&logoColor=white)](mailto:amiho@tad-it.eu)
 
 ---
