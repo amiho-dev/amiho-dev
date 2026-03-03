@@ -1,8 +1,10 @@
-# 👋 Hi, I'm amiho
+# 👋 Hi, I'm amiho 
 
 **Systems Enthusiast | Scripting Specialist | Developer of TAD RemoteVision**
 
 I specialize in bridging the gap between legacy systems and modern functionality, with a deep interest in OS customization and automated deployments.
+
+![Profile Views](https://komarev.com/ghpvc/?username=amiho-dev&color=blueviolet&style=flat-square)
 
 ---
 
@@ -26,5 +28,7 @@ I specialize in bridging the gap between legacy systems and modern functionality
 I discovered a hidden "CPU" profile in the OpenITG Beta 1 source code. I repurposed it to introduce a functional 2nd AI player in an overhauled Marathon mode.
 
 ### 📫 Let's Connect
-* **Website:** [thatoneamiho.cc](https://thatoneamiho.cc)
-* **Email:** [amiho@thatoneamiho.cc](mailto:amiho@thatoneamiho.cc)
+[![Website](https://img.shields.io/badge/Website-thatoneamiho.cc-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://thatoneamiho.cc)
+[![Email](https://img.shields.io/badge/Email-amiho%40thatoneamiho.cc-red?style=flat-square&logo=gmail&logoColor=white)](mailto:amiho@thatoneamiho.cc)
+
+---
